@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AssignmentApp</string>
+    <string name="movie_name">Enter movie name</string>
+    <string name="submitting">Submitting</string>
+    <string name="submit">Submit</string>
+    <string name="no_network">No Network</string>
+    <string name="enter_movie_name">Enter movie name</string>
+</resources>
